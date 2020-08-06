@@ -21,7 +21,7 @@
 		"url": "git://github.com/hasan5151/SkyRTC.git"
 	},
 	"readmeFilename": "README.md",
-	"homepage": "https://github.com/hasan5151/SkyRTC"
+	"homepage": "https://github.com/hasan5151/SkyRTC",
 	
 	"scripts": {
     "start": "node SkyRTC.js"
