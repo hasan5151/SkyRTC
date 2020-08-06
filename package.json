@@ -22,4 +22,9 @@
 	},
 	"readmeFilename": "README.md",
 	"homepage": "https://github.com/hasan5151/SkyRTC"
+	
+	"scripts": {
+    "start": "node SkyRTC.js"
+}
+
 }
